@@ -1,9 +1,9 @@
 # VoRTis: Real-Time Grid-Based Fluid Simulation
 [Home](index.md) | [Technical Details](technical.md) | [Media Gallery](gallery.md) | [About Simplex Studio](contact.md)
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="assets/hero-loop.mp4" type="video/mp4">
-</video>
+<figure>
+  <img src="assets/Representative_image.jpg" alt="VoRTis Fluid-Structure Interaction" style="width:100%">
+</figure>
 
 ## Abstract
 **VoRTis** is a real-time, grid-based fluid simulator for Unreal Engine. Unlike particle-based systems (Niagara/FLIP), buoyancy and two-way fluid-structure interaction emerge intrinsically from the physics. This ensures natural dynamics with arbitrary geometries and zero manual tuning, delivering high-fidelity splashes and vortices at interactive frame rates.
