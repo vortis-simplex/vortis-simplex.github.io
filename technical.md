@@ -1,5 +1,5 @@
 # Technical Architecture: VoRTis Solver
-[Home](index.md) | [Media Gallery](gallery.md)
+[Back to Home](index.md)
 
 VoRTis is built on a custom high-performance framework designed to bridge the gap between offline scientific solvers and real-time game engines.
 
